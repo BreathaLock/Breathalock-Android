@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Breathalock</string>
+    
+    <string name="settings_door_title">Signal Status</string>
+    <string name="settings_door_status_enabled">Enabled</string>
+    <string name="settings_door_status_disabled">Disabled</string>
+
+    <string name="settings_call_uber_title">Call Uber</string>
+    <string name="settings_call_uber_summary">Push To Call Uber</string>
+
+    <string name="settings_ble_connection_title">Search Breathalock Device</string>
+    <string name="settings_ble_connection_status_disconnected">Disconnected</string>
+    <string name="settings_ble_connection_status_connected">Connected</string>
+
+    <string name="output_bac_display">0.00</string>
+    <string name="output_bac_units">v</string>
+
+
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_description">Description</string>
+
+
+</resources>
